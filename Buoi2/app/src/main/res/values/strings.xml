@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Buoi2</string>
+    <string name="to">To</string>
+    <string name="message">Message</string>
+    <string name="send">SEND</string>
+    <string name="ten">Tên:</string>
+    <string name="xong">Xong</string>
+    <string name="username">Tên đăng nhập:</string>
+    <string name="password">Mật khẩu:</string>
+    <string name="login">ĐĂNG NHẬP</string>
+    <string name="exit">THOÁT</string>
+    <string name="title">Đăng nhập vào hệ thống</string>
+    <string name="softName">CSCOM</string>
+    <string name="checkSaveInfo">Lưu thông tin đăng nhập</string>
+</resources>
